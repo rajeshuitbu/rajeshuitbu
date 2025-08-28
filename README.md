@@ -1,6 +1,6 @@
 # Hi 👋, I'm Rajesh Kumar
 
-**Cloud, DevOps & SRE Engineer | VoIP & Unified Communications Specialist | UCCaaS Enthusiast**
+**Cloud, DevOps & SRE Engineer | VoIP & Unified Communications Specialist | UCaaS Enthusiast**
 
 I am passionate about **building reliable, scalable, and observable systems** in cloud and on-prem environments.  
 I have **over 11 years of experience** working with **VoIP, DOCSIS, CMTS, SBCs, Asterisk, and Unified Communications**, along with strong expertise in **AWS, Kubernetes, DevOps, and SRE practices**.
