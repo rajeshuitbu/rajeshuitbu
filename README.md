@@ -3,7 +3,7 @@
 **Cloud, DevOps & SRE Engineer | VoIP & Unified Communications Specialist | UCCaaS Enthusiast**
 
 I am passionate about **building reliable, scalable, and observable systems** in cloud and on-prem environments.  
-I have **over 12 years of experience** working with **VoIP, DOCSIS, CMTS, SBCs, Asterisk, and Unified Communications**, along with strong expertise in **AWS, Kubernetes, DevOps, and SRE practices**.
+I have **over 11 years of experience** working with **VoIP, DOCSIS, CMTS, SBCs, Asterisk, and Unified Communications**, along with strong expertise in **AWS, Kubernetes, DevOps, and SRE practices**.
 
 I focus on **automation, monitoring, and end-to-end reliability** across telephony, cloud, and hybrid infrastructures. I enjoy **analyzing SIP call flows, troubleshooting contact centers**, and designing **self-healing communication systems**.
 
