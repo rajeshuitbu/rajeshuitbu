@@ -42,7 +42,7 @@ A **cloud-native SIP load testing framework** using AWS ECS, SIPp, and Python.
 - Metrics integrated with Prometheus & Grafana  
 - Simulates thousands of concurrent VoIP calls  
 
-### 2. [Self-Healing SIP Service](https://github.com/rajeshuitbu/Self-Healing-SIP-Service)  
+### 2. [Self-Healing SIP Service](https://github.com/rajeshuitbu/Self-Healing-SIP-Service/)  
 Automates **dynamic call routing and failover** in UC environments.  
 - Detects failed endpoints or call paths  
 - Automatically reroutes traffic to healthy paths  
