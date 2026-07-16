@@ -1,132 +1,191 @@
-# 👋 Hi, I'm Rajesh Kumar
+<h1 align="center">👋 Hi, I'm Rajesh Kumar</h1>
 
-### Cloud, DevOps & SRE Engineer | VoIP & Unified Communications Specialist | UCaaS & Voice Infrastructure Enthusiast
+<h3 align="center">
+☁️ Cloud • 🚀 DevOps • 🔥 SRE • ☎️ VoIP & Unified Communications Engineer
+</h3>
 
-I am a **Cloud, DevOps, and Site Reliability Engineer** with **12+ years of experience** designing, automating, testing, and operating large-scale **Voice over IP (VoIP)** and **Unified Communications** platforms.
+<p align="center">
+Building reliable cloud infrastructure, automating operations, and engineering scalable Voice platforms.
+</p>
 
-My expertise spans **SIP signaling, SBCs, Asterisk, carrier interconnects, cloud-native infrastructure, Kubernetes, AWS, CI/CD, Infrastructure as Code, monitoring, and production reliability**. I enjoy building highly available systems, automating operational workflows, and solving complex voice infrastructure problems through observability and engineering.
-
-I am passionate about building open-source projects that bridge **Telecom Engineering** with **Modern Cloud, DevOps, and SRE practices**.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajeshuitbu&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 About Me
 
-### ☁️ Cloud & DevOps
-- AWS
-- Kubernetes
-- Docker
-- Terraform
-- GitHub Actions
-- Linux
+💼 **12+ years** of experience in **VoIP, Unified Communications, Cloud, DevOps & Site Reliability Engineering**
 
-### 📊 Monitoring & Observability
-- Prometheus
-- Grafana
-- Loki
-- Alertmanager
+💡 Passionate about building **highly available**, **cloud-native**, and **observable** communication platforms.
 
-### ☎️ VoIP & Unified Communications
+🔍 Experienced in:
+
+- ☎️ SIP Signaling & Call Flow Analysis
+- 📞 Asterisk & Carrier SIP Trunking
+- 🛡️ Session Border Controllers (SBC)
+- ☁️ AWS Cloud Infrastructure
+- ☸️ Kubernetes & Docker
+- 🚀 CI/CD & Infrastructure as Code
+- 📊 Prometheus, Grafana & Observability
+- 🐍 Python & Bash Automation
+
+---
+
+# 🛠️ Tech Stack
+
+### ☁️ Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,git,github,githubactions" />
+</p>
+
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+### 📊 Monitoring
+
+- 📈 Prometheus
+- 📊 Grafana
+- 📑 Loki
+- 🚨 Alertmanager
+
+### ☎️ Voice Technologies
+
 - SIP
+- SIPp
 - Asterisk
 - Ribbon SBC
-- SIPp
 - WebRTC
-- UCaaS
+- RTP / SRTP
 - Carrier SIP Trunking
-
-### 💻 Programming & Automation
-- Python
-- Bash
-- Git
+- UCaaS
 
 ---
 
-# 🏆 Featured Projects
+# 🌟 Featured Projects
 
-## ⭐ VoIP Operations Platform (Flagship Project)
-🔗 https://github.com/rajeshuitbu/voip-ops-platform
+## 🚀 VoIP Operations Platform ⭐
 
-A cloud-native VoIP operations platform that demonstrates modern DevOps and SRE practices for SIP-based communication systems.
+🔗 **Repository:**  
+https://github.com/rajeshuitbu/voip-ops-platform
 
-**Key Features**
-- End-to-end SIP call monitoring and diagnostics
-- Prometheus & Grafana observability dashboards
-- Automated health checks and alerting
-- Infrastructure automation
-- Production-inspired VoIP operations workflows
-- Voice infrastructure troubleshooting and analytics
+An end-to-end cloud-native VoIP Operations Platform showcasing modern **Voice DevOps**, **Cloud**, and **SRE** practices.
+
+### ✨ Features
+
+- 📞 SIP Call Monitoring
+- 📊 Prometheus & Grafana Dashboards
+- 🚨 Intelligent Alerting
+- 🔍 Voice Infrastructure Diagnostics
+- ⚙️ Infrastructure Automation
+- 📈 Operational Analytics
+- ☁️ Cloud Native Architecture
 
 ---
 
-## 🚀 VoIP Load Orchestrator
+## 📞 VoIP Load Orchestrator
 
-A cloud-native SIP load testing framework built with **AWS, Docker, SIPp, and Python**.
+Cloud-native SIP Load Testing Platform using **AWS + Docker + SIPp + Python**
 
-**Key Features**
-- Automated SIP traffic generation
-- High-volume concurrent call simulation
-- Performance reporting
-- Prometheus & Grafana integration
-- CI/CD ready
+### ✨ Features
+
+- 🚀 Massive concurrent SIP calls
+- 📈 Performance benchmarking
+- 📊 Grafana dashboards
+- ⚡ Automated reporting
+- 🔄 CI/CD Integration
 
 ---
 
 ## 🔄 Self-Healing SIP Service
 
-A resilient SIP routing platform that automatically detects failures and reroutes traffic.
+Automatically detects SIP failures and reroutes traffic.
 
-**Key Features**
-- SIP endpoint health monitoring
-- Automatic failover
-- High availability
-- Real-time monitoring dashboards
-- Failure detection and recovery automation
+### ✨ Features
+
+- ❤️ Health Checks
+- 🔀 Automatic Failover
+- 📊 Monitoring Dashboards
+- 🚨 Failure Detection
+- ⚡ High Availability
 
 ---
 
 ## 📈 SIP Monitoring & Analytics
 
-A real-time SIP analytics platform for monitoring call quality and signaling.
+Real-time SIP analytics and troubleshooting platform.
 
-**Key Features**
-- SIP response code analysis
-- Call success/failure tracking
-- Retransmission monitoring
-- Asterisk & SIPp log parsing
-- Interactive Grafana dashboards
+### ✨ Features
+
+- 📊 SIP Response Code Analysis
+- 📞 Call Success & Failure Metrics
+- 🔍 SIP Retransmission Detection
+- 📄 Asterisk Log Parsing
+- 📈 Grafana Dashboards
 
 ---
 
 ## ☁️ Cloud Observability Playground
 
-A hands-on observability lab for cloud-native applications running on AWS and Kubernetes.
+Learn production-grade observability using AWS & Kubernetes.
 
-**Key Features**
-- Prometheus
-- Grafana
-- Alertmanager
-- Terraform automation
-- Kubernetes monitoring
-- Production-style alerting
+### ✨ Features
 
----
-
-## 🌱 Currently Learning
-
-- Salesforce Service Cloud Voice
-- Voice SRE Engineering
-- Cloud-Native UCaaS Platforms
-- WebRTC & Media Services
-- Advanced Kubernetes Platform Engineering
+- 📊 Prometheus
+- 📈 Grafana
+- 🚨 Alertmanager
+- ☸️ Kubernetes Monitoring
+- 🌍 Terraform Automation
 
 ---
 
-## 📫 Connect With Me
+# 🌱 Currently Learning
 
-- GitHub: https://github.com/rajeshuitbu
-- LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- ☁️ Salesforce Service Cloud Voice
+- ☎️ Voice SRE Engineering
+- 🌐 Cloud Native UCaaS
+- 📹 WebRTC
+- ☸️ Advanced Kubernetes
 
 ---
 
-⭐ If you find my projects useful, consider giving them a star. Feedback and contributions are always welcome!
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rajeshuitbu&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshuitbu&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajeshuitbu&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🤝 Connect with Me
+
+📧 **Email:** your-email@example.com
+
+💼 **LinkedIn:** https://linkedin.com/in/your-profile
+
+💻 **GitHub:** https://github.com/rajeshuitbu
+
+---
+
+<p align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+*"Engineering reliable Voice Infrastructure with Cloud, DevOps & SRE."*
+
+</p>
