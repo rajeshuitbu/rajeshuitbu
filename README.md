@@ -102,6 +102,19 @@ Cloud-native SIP Load Testing Platform using **AWS + Docker + SIPp + Python**
 
 ---
 
+## 📈 SIPOps
+
+Enterprise-grade SIP infrastructure automation platform for automating configuration management, deployment, validation, testing, monitoring, and operational workflows across VoIP environments.
+
+🔗 Repository: https://github.com/rajeshuitbu/SIPOps
+
+### ✨ Features
+
+- ⚙️ Automated SIP Configuration Generation using Jinja2 Templates
+- 🚀 Safe Asterisk Configuration Deployment
+
+----
+
 ## 🔄 Self-Healing SIP Service
 
 Automatically detects SIP failures and reroutes traffic.
@@ -113,8 +126,7 @@ Automatically detects SIP failures and reroutes traffic.
 - 📊 Monitoring Dashboards
 - 🚨 Failure Detection
 - ⚡ High Availability
-
----
+-----
 
 ## 📈 SIP Monitoring & Analytics
 
